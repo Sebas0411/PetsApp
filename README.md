@@ -1,8 +1,7 @@
-# tcods2770672
+# PetsApp
 ## Técnico  en Desarrollo de Software
 ---
 
-![Hollow](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqYVEWFmINrX44yTYgdqoBJSCWj1QSG6SJa-HMT7lig&s)
 
 | Tema | Tipo | 
 |---------|-------| 
@@ -12,4 +11,3 @@
 |04. Mockup | Final Design |
 |05. Layout | (html & css)) |
 
-[Drive -> Slides PDF](https://drive.google.com/drive/folders/1cUEOsM44rpspMfyWvY_YlnXlIm9uffej?usp=share_link)
