@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tcods2770672
 ## Técnico  en Desarrollo de Software
 ---
@@ -13,3 +14,6 @@
 |05. Layout | (html & css)) |
 
 [Drive -> Slides PDF](https://drive.google.com/drive/folders/1cUEOsM44rpspMfyWvY_YlnXlIm9uffej?usp=share_link)
+=======
+# PetsApp
+>>>>>>> 7f0544d00e62ee8df1dce529d74b0ea81f2f30fb
